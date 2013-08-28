@@ -1,4 +1,4 @@
-UCC
+Unschoolers Creative City
 ===
 
-Unschoolers Creative City problem tracking
+Unschoolers Creative City [Issue Tracker]
